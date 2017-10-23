@@ -1,6 +1,3 @@
 /*
-!/.gitignore
-!/.config
-/.config/*
-!/.config/Code
-/.config/Code/Cache*
+!/Code
+/Code/*Cache*
